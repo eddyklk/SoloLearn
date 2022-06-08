@@ -1,0 +1,15 @@
+C:\Users\eddy.valerio\source\repos\SoloLearn\bin\Debug\net6.0\SoloLearn.exe
+C:\Users\eddy.valerio\source\repos\SoloLearn\bin\Debug\net6.0\SoloLearn.deps.json
+C:\Users\eddy.valerio\source\repos\SoloLearn\bin\Debug\net6.0\SoloLearn.runtimeconfig.json
+C:\Users\eddy.valerio\source\repos\SoloLearn\bin\Debug\net6.0\SoloLearn.dll
+C:\Users\eddy.valerio\source\repos\SoloLearn\bin\Debug\net6.0\SoloLearn.pdb
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.csproj.AssemblyReference.cache
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.AssemblyInfoInputs.cache
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.AssemblyInfo.cs
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.csproj.CoreCompileInputs.cache
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.dll
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\refint\SoloLearn.dll
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.pdb
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\SoloLearn.genruntimeconfig.cache
+C:\Users\eddy.valerio\source\repos\SoloLearn\obj\Debug\net6.0\ref\SoloLearn.dll
