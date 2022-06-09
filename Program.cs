@@ -11,24 +11,24 @@ namespace SoloLearn
     {
         static void Main(string[] args)
         {
-            int totalPrice = Convert.ToInt32(Console.ReadLine());
+            double totalprice = Convert.ToInt32(Console.ReadLine());
 
-            Discount(totalPrice);
-
+            Console.WriteLine(Discount(totalprice));
+           
 
         }
-        //complete the method declaration
-        static double Discount(double x)
+
+        static double Discount(double monto)
         {
-            if (x >= 1000 )
+            if (monto >= 10000)
             {
-                double a = 0;
-
-                a = 20.0f / 100;
-                x = x - (a/x) ;
-                return x;
+               monto = monto - (0.2 * monto);
+               //return monto;
             }
+            return monto;
 
+           
         }
     }
 }
+
